@@ -16,7 +16,7 @@
 title: Ifty's Retreat
 email: rezwan.mohammad.165@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  . A bit about me (Ifty) and my thoughts from time to time.
+  A bit about me (Ifty) and my thoughts from time to time.
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
@@ -72,7 +72,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/imr555"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/"
 
@@ -84,7 +84,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/imr555"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/"
 
