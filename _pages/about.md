@@ -3,6 +3,21 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Ifty. I am an undergraduate student at North South University. I am studying Computer Science & Engineering
+with a focus in artificial intelligence. I like solving problems and finding patterns. In my free time, I like reading
+books, watching sitcoms and playing open-world games.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Research Interests
+My research interests revolve around classical computer vision,machine learning, resource-constrained 
+deep learning, object tracking, medical imaging, swarm robotics and navigational path planning.
+
+I am currently doing projects under Dr. Nabeel Mohammad and Dr. Shahnewaz Siddique on these topics.
+
+### Contact me
+
+I am open to interesting research projects and machine learning jobs.
+Feel free to contact me by email or message me on twitter.
+
+Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gmail.com)
+University/Work E-mail: [mohammad.rezwan@northsouth.edu](mailto:mohammad.rezwan@northsouth.edu)
+Twitter : [Ifty](mailto:https://twitter.com/imr165)
