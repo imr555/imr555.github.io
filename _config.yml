@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes #imr555/imr555.github.io #
+remote_theme: imr555/imr555.github.io #mmistakes/minimal-mistakes #imr555/imr555.github.io #
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
