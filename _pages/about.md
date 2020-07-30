@@ -20,4 +20,4 @@ Feel free to contact me by email or message me on twitter.
 
 Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gmail.com)
 University/Work E-mail: [mohammad.rezwan@northsouth.edu](mailto:mohammad.rezwan@northsouth.edu)
-Twitter : [Ifty](mailto:https://twitter.com/imr165)
+Twitter : [Ifty](https://twitter.com/imr165)
