@@ -8,6 +8,10 @@ Greetings esteemed reader. I am an undergraduate from North South University in 
 with a focus in artificial intelligence. I like solving problems and finding patterns. In my free time, I like reading
 books, watching crime documentaries and playing open-world games.
 
+### Accomplishments
+
+⋅⋅* [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
+
 ### Research Interests
 My research interests revolve around everything machine learning with a focus on deep learning. I have done projects and
 have a keen interest in problems involving resource-constrained machine learning, optical character recognition, object detection and tracking,
