@@ -7,7 +7,7 @@ hidden: true
 Greetings esteemed reader. I am an undergraduate from North South University in Computer Science & Engineering
 with a focus in artificial intelligence. I like solving problems and finding patterns. In my free time, I like reading
 books, watching crime documentaries and playing open-world games.
-Get my CV [here](https://github.com/imr555/imr555.github.io/blob/master/assets/images/Ifty_CV.pdf).
+Please email me or give me a knock if you require my CV.
 
 ### Accomplishments
 * [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
