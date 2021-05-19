@@ -1,7 +1,9 @@
 ---
-permalink: /about/
-title: "About"
+layout: splash
+permalink: /
+hidden: true
 ---
+
 
 My name is Ifty. I am an undergraduate student at North South University. I am studying Computer Science & Engineering
 with a focus in artificial intelligence. I like solving problems and finding patterns. In my free time, I like reading
