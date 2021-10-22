@@ -25,7 +25,7 @@ Previously I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.e
 
 ### Computer Science Expertise (Tools)
 
-* Computer Languages : Python, C++, <Javascript
+* Computer Languages : Python, C++, Javascript
 * Deep Learning Frameworks : Pytorch, Tensorflow, Darknet, PaddlePaddle, NCNN
 * People Experience : Pair Programming, Thought Out Googling, Sleeping
                                                
