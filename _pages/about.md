@@ -6,14 +6,14 @@ title: "About"
 Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving problems and finding patterns. I also love learning new things which lie in the intersection of computer science and artificial intelligence.
 
 ### Accomplishments
-*(20th November 2020) [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
+* (20th November 2020) [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
 
 ### Experience
-*(August - Present, 2021) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
-*(August - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
+* (August - Present, 2021) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
+* (August - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
 ### Academic Background
-*Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
+* Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
 
 ### Research Interests & Experience
 My research interests revolve around everything machine learning with a focus on deep learning. I have done projects and
@@ -25,9 +25,9 @@ Previously I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.e
 
 ### Computer Science Expertise (Tools)
 
-*Computer Languages : Python, C++, <Javascript
-*Deep Learning Frameworks : Pytorch, Tensorflow, Darknet, PaddlePaddle, NCNN
-*People Experience : Pair Programming, Thought Out Googling, Sleeping
+* Computer Languages : Python, C++, <Javascript
+* Deep Learning Frameworks : Pytorch, Tensorflow, Darknet, PaddlePaddle, NCNN
+* People Experience : Pair Programming, Thought Out Googling, Sleeping
                                                
 ### Industrial Interests & Experience 
 
