@@ -1,6 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+author_profile: true
+hidden: true
 ---
 
 Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving problems and finding patterns. I also love learning new things which lie in the intersection of computer science and artificial intelligence.
