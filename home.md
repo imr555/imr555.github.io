@@ -1,7 +1,6 @@
 ---
-permalink: /
-author_profile: true
-hidden: true
+permalink: /about/
+title: "About"
 ---
 
 Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving problems and finding patterns. I also love learning new things which lie in the intersection of computer science and artificial intelligence.
@@ -26,12 +25,19 @@ Previously I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.e
 
 ### Computer Science Expertise (Tools)
 
-* Computer Languages : Python, C++, Javascript
+* Computer Languages : Python, C++, Javascript, Java
+* Numeric Manipulation Libraries : Numpy, Eigen, Scipy
+* Machine Learning Frameworks : Scikit-Learn
+* Tabular Data Manipulation Libraries : Pandas, Modin, Dask
 * Deep Learning Frameworks : Pytorch, Tensorflow, Darknet, PaddlePaddle, NCNN
+* Database Query Language : MySQL, PostgresSQL, SQLite
+* Web based framework : Flask, FastAPI, React
+* Visualization Libraries : Matplotlib, D3.js, Bokeh
+* Robotic Frameworks : ROS
 * People Experience : Pair Programming, Thought Out Googling, Sleeping
                                                
 ### Industrial Interests & Experience 
-
+My industrial intrests revolve around creating products that provide practical solutions through the use of both algorithms and software design. I have experience working with image, text, sensor and tabular data. I also have experience working on the whole data pipeline from data collection upto optimized model deployment.
 
 ### Contact me
 I am open to interesting research and practical projects. I am also looking for jobs related to machine learning.
@@ -41,4 +47,6 @@ Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gma
 University/Work E-mail: [mohammad.rezwan@northsouth.edu](mailto:mohammad.rezwan@northsouth.edu)
 Twitter : [Ifty](https://twitter.com/imr165)
 Linkedin : [Ifty](https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/)
+
+
 
