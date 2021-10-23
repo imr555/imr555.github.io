@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Ifty Mohammad Rezwan"
   avatar : "https://pbs.twimg.com/profile_images/1397599386947919878/m29wcNlL_400x400.jpg" #"/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate, Machine Learning & Data Science Enthusiast"
+  bio    : "Machine Learning Engineer @NybSys, CS Undergraduate @NSU,  Software Development Enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
