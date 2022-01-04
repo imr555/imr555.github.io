@@ -10,8 +10,10 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 * (20th November 2020) [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
 
 ### Experience
-* (August - Present, 2021) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
-* (August - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
+* (January, 2022 - Present) Research Student at [North South University](http://www.northsouth.edu/)
+* (August, 2021 - Present) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
+* (February, 2021 - June, 2021) Research Student at [North South University](http://www.northsouth.edu/)
+* (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
 ### Academic Background
 * Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
@@ -21,8 +23,8 @@ My research interests revolve around everything machine learning with a focus on
 have a keen interest in problems involving resource-constrained machine learning, optical character recognition, object detection and tracking,
 zero-shot image tagging, navigational path planning and swarm robotics.
 
-I have done some research focused on zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home).
-Previously I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition and [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
+I am doing some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home).
+Previously I worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I have also worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
 
 ### Computer Science Expertise (Tools)
 
