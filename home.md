@@ -10,8 +10,9 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 * (20th November 2020) [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
 
 ### Experience
+* (March, 2022 - Present) AI/ML Research Engineer at [Neovotech Ltd.](https://nybsys.com/)
 * (January, 2022 - Present) Research Student at [North South University](http://www.northsouth.edu/)
-* (August, 2021 - Present) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
+* (August, 2021 - March, 2022) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
 * (February, 2021 - June, 2021) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
