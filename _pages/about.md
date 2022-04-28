@@ -6,8 +6,9 @@ title: "About"
 Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving problems and finding patterns. I also love learning new things which lie in the intersection of computer science and artificial intelligence.
 
 ### Experience
+* (March, 2022 - Present) AI/ML Research Engineer at [Neovotech Ltd.](https://www.neovotech.com/)
 * (January, 2022 - Present) Research Student at [North South University](http://www.northsouth.edu/)
-* (August, 2021 - Present) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
+* (August, 2021 - March, 2022) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
 * (February, 2021 - June, 2021) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
