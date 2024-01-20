@@ -6,18 +6,20 @@ hidden: true
 
 Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving problems and finding patterns. I also love learning new things which lie in the intersection of computer science and artificial intelligence.
 
-### Accomplishments
-* (20th November 2020) [Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/51_CameraReady.pdf) published at [Dicta-2020](http://www.dicta2020.org/)
+### Papers and Journals
+* (5th August 2023) [Journal](https://link.springer.com/article/10.1007/s10032-023-00446-7) published at [IJDAR](https://link.springer.com/journal/10032)
+* (20th November 2020) [Paper](https://ieeexplore.ieee.org/document/9363386) published at [Dicta-2020](http://www.dicta2020.org/)
 
 ### Experience
-* (March, 2022 - Present) AI/ML Research Engineer at [Neovotech Ltd.](https://www.neovotech.com/)
-* (January, 2022 - Present) Research Student at [North South University](http://www.northsouth.edu/)
+* (March, 2022 - October, 2023) AI/ML Research Engineer at [Neovotech Ltd.](https://www.neovotech.com/)
+* (January, 2022 - OCtober, 2023) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2021 - March, 2022) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
 * (February, 2021 - June, 2021) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
 ### Academic Background
-* Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
+* (January, 2024 - Present) M.Sc. in Computer Vision at [University of Central Florida](https://www.ucf.edu/)
+* (September, 2014 - April, 2020) Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
 
 ### Research Interests & Experience
 My research interests revolve around everything machine learning with a focus on deep learning. I have done projects and
