@@ -12,7 +12,7 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 
 ### Experience
 * (March, 2022 - October, 2023) AI/ML Research Engineer at [Neovotech Ltd.](https://www.neovotech.com/)
-* (January, 2022 - OCtober, 2023) Research Student at [North South University](http://www.northsouth.edu/)
+* (January, 2022 - October, 2023) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2021 - March, 2022) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
 * (February, 2021 - June, 2021) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
