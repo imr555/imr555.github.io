@@ -27,8 +27,8 @@ My research interests revolve around everything machine learning with a focus on
 have a keen interest in problems involving resource-constrained machine learning, optical character recognition, object detection and tracking,
 zero-shot image tagging, navigational path planning and swarm robotics.
 
-I am doing some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home).
-Previously I worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I have also worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
+I worked with Dr. Mubarak Shah on Open Vocabulary Object Detection and Image to Image Open Vocabulary Object Detection.
+Previously, I have done some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home). I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
 
 ### Computer Science Expertise (Tools)
 
@@ -54,6 +54,7 @@ Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gma
 University E-mail: [if725656@ucf.edu](mailto:if725656@ucf.edu)
 Twitter : [Ifty](https://twitter.com/imr165)
 Linkedin : [Ifty](https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/)
+
 
 
 
