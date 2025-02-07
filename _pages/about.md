@@ -10,6 +10,7 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 * (20th November 2020) [Paper](https://ieeexplore.ieee.org/document/9363386) published at [Dicta-2020](http://www.dicta2020.org/)
 
 ### Experience
+* (May, 2024 - August, 2024) Graduate Research Assistant at [UCF CRCV Lab](https://www.crcv.ucf.edu/)
 * (March, 2022 - October, 2023) AI/ML Research Engineer at [Neovotech Ltd.](https://www.neovotech.com/)
 * (January, 2022 - October, 2023) Research Student at [North South University](http://www.northsouth.edu/)
 * (August, 2021 - March, 2022) Machine Learning Engineer at [Nybsys](https://nybsys.com/)
@@ -17,7 +18,7 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 * (August, 2020 - December, 2020) Machine Learning Researcher at Apurba-NSU Lab([Apurba Technologies](http://www.apurbatech.com/))
 
 ### Academic Background
-* (January, 2024 - Present) M.Sc. in Computer Vision at [University of Central Florida](https://www.ucf.edu/)
+* (January, 2024 - May, 2025) M.Sc. in Computer Vision at [University of Central Florida](https://www.ucf.edu/)
 * (September, 2014 - April, 2020) Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
 
 ### Research Interests & Experience
@@ -25,8 +26,8 @@ My research interests revolve around everything machine learning with a focus on
 have a keen interest in problems involving resource-constrained machine learning, optical character recognition, object detection and tracking,
 zero-shot image tagging, navigational path planning and swarm robotics.
 
-I am doing some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home).
-Previously I worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I have also worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
+I worked with Dr. Mubarak Shah on Open Vocabulary Object Detection and Image to Image Open Vocabulary Object Detection.
+Previously, I have done some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home). I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
 
 ### Computer Science Expertise (Tools)
 
@@ -49,7 +50,7 @@ I am open to interesting research and practical projects. I am also looking for 
 Feel free to contact me by email or message me on Twitter or send a connection on Linkedin.
 
 Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gmail.com)
-University/Work E-mail: [mohammad.rezwan@northsouth.edu](mailto:mohammad.rezwan@northsouth.edu)
+University E-mail: [if725656@ucf.edu](mailto:if725656@ucf.edu)
 Twitter : [Ifty](https://twitter.com/imr165)
 Linkedin : [Ifty](https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/)
 
