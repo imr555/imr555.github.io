@@ -22,9 +22,7 @@ Greetings esteemed reader. You can call me Ifty. A bit about me. I like solving 
 * (September, 2014 - April, 2020) Undergraduate in Computer Science and Engineering from [North South University](http://www.northsouth.edu/)
 
 ### Research Interests & Experience
-My research interests revolve around everything machine learning with a focus on deep learning. I have done projects and
-have a keen interest in problems involving resource-constrained machine learning, optical character recognition, object detection and tracking,
-zero-shot image tagging, navigational path planning and swarm robotics.
+My research interests revolve around everything machine learning with a focus on deep learning. I also like software development and deploying products at scale. I have done projects and have a keen interest in problems involving resource-constrained machine learning, few-shot class incremental learning, vision-language models, navigational path planning and swarm robotics.
 
 I worked with Dr. Mubarak Shah on Open Vocabulary Object Detection and Image to Image Open Vocabulary Object Detection.
 Previously, I have done some research focused on long tailed image classifcation, semantically aware few shot classification and zero-shot tagging with [Dr. Shafin Rahman](https://sites.google.com/site/rshafin/home). I have also worked with [Dr. Nabeel Mohammad](http://ece.northsouth.edu/people/dr-nabeel-mohammed/) on convolutional capsule networks and optical character recognition. I worked with [Dr. Shahnewaz Siddique](http://ece.northsouth.edu/people/dr-shahnewaz-siddique/) on GPS denied navigational path planning for multiple robots.
